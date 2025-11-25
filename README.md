@@ -11,8 +11,6 @@ This program is to make the list of the fertilizer, seeds and grains as per the 
 
 *A simple and efficient desktop application to manage farm inventory*
 
-![Farm Inventory Demo](https://via.placeholder.com/800x400.png?text=Farm+Inventory+Tracker+Interface)
-
 </div>
 
 ## 📖 About The Project
