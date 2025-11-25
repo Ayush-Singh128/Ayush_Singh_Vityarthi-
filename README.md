@@ -287,6 +287,3 @@ Future plans
 
 Contribution guidelines
 
-Support information
-   git clone https://github.com/yourusername/farm-inventory-tracker.git
-   cd farm-inventory-tracker
